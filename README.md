@@ -10,3 +10,6 @@
 * https://arxivtimes.herokuapp.com/
 
 * https://github.com/arXivTimes/arXivTimes
+
+## format
+* Mr. Yoichi Ochiai's format
